@@ -1,6 +1,3 @@
-# MacBook_awake_when_lid_is_closed
-# cmd line that keeps a MacBook awake when the lid is closed 
-
 # Disable Sleeping when the lid is closed running on battery
 
 sudo pmset -b sleep 0; sudo pmset -b disablesleep 1
